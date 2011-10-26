@@ -1,7 +1,7 @@
 // Plasma 1.0 by André Abt (2010)
 // www.andre-abt.com
 
-color palette [] = new color [256];  // Ein Array mit 256 Elementen, jedes Element ist ein color.
+color palette [] = new color [256];
 
 void setup() {
   size(255, 255, P2D);
