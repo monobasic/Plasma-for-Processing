@@ -1,5 +1,4 @@
-
-color palette [] = new color [256];  // Ein Array mit 256 Elementen, jedes Element ist ein color.
+color palette [] = new color [256];
 
 void setup() {
   size(250, 250, P2D);
